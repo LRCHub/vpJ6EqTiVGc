@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "pity dirty",
+  "base_artist": "pami",
+  "createdAt": "2026-04-03T12:30:50.417205Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "pity dirty",
+      "artist": "pami",
+      "has_synced": true,
+      "path": "select/01_pity_dirty_pami.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "pity dirty",
+      "artist": "pami",
+      "has_synced": true,
+      "path": "select/02_pity_dirty_pami.lrc"
+    }
+  ]
+}
